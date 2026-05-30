@@ -7,7 +7,7 @@ public class Main {
         Student s3 = new Student(s2);
 
         s1.displayinfo();
-        System.out.println("Scholl Name - "+Student.displayScholName());
+        System.out.println("School Name - "+Student.displayScholName());
         s2.displayinfo();
         s3.displayinfo();
 

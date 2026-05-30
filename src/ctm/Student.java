@@ -34,7 +34,7 @@ public class Student{
 
     //static method
     public static String displayScholName(){
-        return "Muktangan";
+        return "Muktangan English School";
     }
 
     //overload methods with one or two parameters.
